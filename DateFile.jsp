@@ -9,5 +9,6 @@
 </head>
 <body>
 Today's date: <%= (new java.util.Date()).toLocaleString()%>
+    The Circle of Life... 
 </body>
 </html>
